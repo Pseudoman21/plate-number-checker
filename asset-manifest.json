@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.252cbd9c.css",
-    "main.js": "/static/js/main.bffc0c5c.js",
-    "static/js/787.5fd85316.chunk.js": "/static/js/787.5fd85316.chunk.js",
-    "static/media/plate-bg.jpg": "/static/media/plate-bg.926df9575a78b30f8a29.jpg",
-    "index.html": "/index.html",
-    "main.252cbd9c.css.map": "/static/css/main.252cbd9c.css.map",
-    "main.bffc0c5c.js.map": "/static/js/main.bffc0c5c.js.map",
-    "787.5fd85316.chunk.js.map": "/static/js/787.5fd85316.chunk.js.map"
+    "main.css": "/plate-number-checker/static/css/main.b290fa85.css",
+    "main.js": "/plate-number-checker/static/js/main.9b4a93e7.js",
+    "static/js/787.5fd85316.chunk.js": "/plate-number-checker/static/js/787.5fd85316.chunk.js",
+    "static/media/plate-bg.jpg": "/plate-number-checker/static/media/plate-bg.926df9575a78b30f8a29.jpg",
+    "index.html": "/plate-number-checker/index.html",
+    "main.b290fa85.css.map": "/plate-number-checker/static/css/main.b290fa85.css.map",
+    "main.9b4a93e7.js.map": "/plate-number-checker/static/js/main.9b4a93e7.js.map",
+    "787.5fd85316.chunk.js.map": "/plate-number-checker/static/js/787.5fd85316.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.252cbd9c.css",
-    "static/js/main.bffc0c5c.js"
+    "static/css/main.b290fa85.css",
+    "static/js/main.9b4a93e7.js"
   ]
 }
