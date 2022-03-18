@@ -76,20 +76,20 @@ function App() {
       }
 
       if(lastTwo[0]=== 1 || lastTwo[0] === 2 || lastTwo[0] === 3){
-        setWeek('Week 1');         
+        setWeek('1st week');         
         // console.log(week);
       }
       else if(lastTwo[0]=== 4 || lastTwo[0] === 5 || lastTwo[0] === 6){
-        setWeek('Week 2');
+        setWeek('2nd week');
         // console.log(week);
       }
       else if(lastTwo[0]=== 7 || lastTwo[0] === 8){
-        setWeek('Week 3');
+        setWeek('3rd week');
         // console.log(week);
 
       }
       else if(lastTwo[0]=== 9 || lastTwo[0] === 0){
-        setWeek('Week 4');   
+        setWeek('4th week');   
         // console.log(week);
       }
       setDisplay('d-block');
